@@ -1,6 +1,6 @@
 languageCode = 'ru-ru'
 title = 'Lectures'
-theme = 'ananke'
+theme = 'PaperMod'
 [markup]
   defaultMarkdownHandler = 'asciidocext'
   [markup.asciidocExt]
