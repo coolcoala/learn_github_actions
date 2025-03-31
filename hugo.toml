@@ -2,6 +2,7 @@ languageCode = 'ru-ru'
 title = 'Lectures'
 theme = 'ananke'
 [markup]
+  defaultMarkdownHandler = 'asciidocext'
   [markup.asciidocExt]
     backend = 'html5'
     extensions = []
